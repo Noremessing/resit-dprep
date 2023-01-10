@@ -1,8 +1,7 @@
 # Resit DPREP
 This respository includes the resit DPREP excersise made by Nore Messing
-A subtitle that describes your project, e.g., research question
 ## Motivation
-Motivate your research question or business problem. Clearly explain which problem is solved.
+This repository was made for the final of the course DPREP
 ## Method and results
 First, introduce and motivate your chosen method, and explain how it contributes to solving the research question/business problem.
 Second, summarize your results concisely. Make use of subheaders where appropriate.
